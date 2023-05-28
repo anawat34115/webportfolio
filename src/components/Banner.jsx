@@ -21,7 +21,7 @@ const Banner = () => {
       <div className='mb-6 text-[36px] lg:text-[60px] font-secondary font-semibold uppercase leading-[1]'>
         <span className='text-black mr-4'>I am a</span>
         </div>
-        <p className='mb-8 max-w-lg mx-auto lg:mx-0 text-black ss:text-[30px]'>นักพัฒนาเว็ปไซต์ด้วยประสบการณ์มากกว่า 2 ปี งาน front-end หรือการทำเว็ปLanding page เป็นสิ่งที่ผมถนัดมาก</p>
+        <p className='mb-8 max-w-lg mx-auto lg:mx-0 text-black ss:text-[30px]'>นักพัฒนาเว็บไซต์ที่มีประสบการณ์มากกว่า 2 ปี ผมมีความชำนาญในภาษาโปรแกรมต่างๆ เช่น HTML, CSS, JavaScript และไลบรารีต่างๆ เช่น React และ Wordpress</p>
         <div className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
         <a href="https://www.facebook.com/apac.sunhur" target="_blank">
           <button  className="btn btn-lg ss:text-[25px]">Contact me</button>

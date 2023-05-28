@@ -10,7 +10,9 @@ import Img8 from '../assets/shop2.png'
 import Img9 from '../assets/weed.png'
 import Img10 from '../assets/port2.png'
 import Img11 from '../assets/port3.png'
-
+import Img12 from '../assets/special.png'
+import Img13 from '../assets/goal.png'
+import Img14 from '../assets/very.png'
 
 
 
@@ -29,7 +31,9 @@ const Work = () => {
   return <div className='text-center ss:text-[80px] center mb-1 ' id='work'>
         <div className='pb-16'>MY PROJECT</div>
       <Swiper className="mySwiper ">
+      <SwiperSlide><img src={Img14} alt="" /></SwiperSlide>
         <SwiperSlide><img src={Img1} alt="" /></SwiperSlide>
+        <SwiperSlide><img src={Img13} alt="" /></SwiperSlide>
         <SwiperSlide><img src={Img2} alt="" /></SwiperSlide>
         <SwiperSlide><img src={Img3} alt="" /></SwiperSlide>
         <SwiperSlide><img src={Img4} alt="" /></SwiperSlide>
@@ -40,6 +44,7 @@ const Work = () => {
         <SwiperSlide><img src={Img9} alt="" /></SwiperSlide>
         <SwiperSlide><img src={Img10} alt="" /></SwiperSlide>
         <SwiperSlide><img src={Img11} alt="" /></SwiperSlide>
+        <SwiperSlide><img src={Img12} alt="" /></SwiperSlide>
 
 
 
